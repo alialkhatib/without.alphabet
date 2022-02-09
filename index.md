@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Without Google
 
-You can use the [editor on GitHub](https://github.com/alialkhatib/without.alphabet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you're looking for alternatives to Google/Alphabet products, you've come to the right place. Everything's on one page, there shouldn't be any tracking nonsense, and if you want to contact me you can find [my contact info here](//al2.in/contact).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Gmail
+### Why you might not want to use it
+### Some alternatives
 
-### Markdown
+## Calendar
+### Why you might not want to use it
+### Some alternatives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Drive
+### Why you might not want to use it
+### Some alternatives
 
-```markdown
-Syntax highlighted code block
+## Sheets
+### Why you might not want to use it
+### Some alternatives
 
-# Header 1
-## Header 2
-### Header 3
+## Docs
+### Why you might not want to use it
+### Some alternatives
 
-- Bulleted
-- List
+## Photos
+### Why you might not want to use it
+### Some alternatives
 
-1. Numbered
-2. List
+## Hangouts
+### Why you might not want to use it
+### Some alternatives
 
-**Bold** and _Italic_ and `Code` text
+## Meet
+### Why you might not want to use it
+### Some alternatives
 
-[Link](url) and ![Image](src)
-```
+## Domains
+### Why you might not want to use it
+### Some alternatives
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Translate
+### Why you might not want to use it
+### Some alternatives
 
-### Jekyll Themes
+## Search
+### Why you might not want to use it
+### Some alternatives
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alialkhatib/without.alphabet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Android
+### Why you might not want to use it
+### Some alternatives
 
-### Support or Contact
+## YouTube
+### Why you might not want to use it
+### Some alternatives
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Chrome
+### Why you might not want to use it
+### Some alternatives
+
+## Maps
+### Why you might not want to use it
+### Some alternatives
+
+## Authenticator
+### Why you might not want to use it
+### Some alternatives
+
+## Drive
+### Why you might not want to use it
+### Some alternatives
