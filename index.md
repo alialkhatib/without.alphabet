@@ -1,3 +1,5 @@
+# Without Google
+
 If you're looking for alternatives to Google/Alphabet products, you've come to the right place. Everything's on one page, there shouldn't be any tracking nonsense, and if you want to contact me you can find [my contact info here](//al2.in/contact).
 
 ## Gmail
